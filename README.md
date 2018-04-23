@@ -10,4 +10,5 @@ https://github.com/erezdaniel7/he-date
 - Support extended functionality enables by Google Calendar from this link:
 https://support.google.com/calendar/answer/37118?hl=iw
 - Add feature for monthly events to support event such as Birkat Ha'Levana
+- Avoid letting user to inser more futuristic date on startDate than endDate
 - Dev.QA (Robustness) + Clean Code

@@ -22,7 +22,6 @@ http://roibueno.co.nf/gcal-csv-hedate-exporter/index.html
 
 # Future Milestones:
 - Support bulk events adding in on click
-- Bugfix on Hebrew characters (Unicode) on event title - being processed as Giberish on the CSV
 - Support extended functionality enables by Google Calendar from this link:
 https://support.google.com/calendar/answer/37118?hl=iw
 - Add feature for monthly events to support event such as Birkat Ha'Levana

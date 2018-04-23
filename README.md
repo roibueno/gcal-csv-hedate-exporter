@@ -1,7 +1,7 @@
 # gcal-csv-hedate-exporter
 Simple tool to create valid Google Calendar CSV file for events importing
 
-# This tool is based on the source-code of HeDate developed by Daniel Erez:
+This tool is based on the source-code of HeDate developed by Daniel Erez:
 https://github.com/erezdaniel7/he-date
 
 # Future Milestones:

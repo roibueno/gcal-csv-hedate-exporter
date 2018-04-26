@@ -388,9 +388,8 @@ function exportToGCalCsv(titlesAndHeDates) {
 	var first_year = getCurrentHebrewYear();
 	var last_year = calculateLastYearFromYearlyRepeat(titlesAndHeDatesObject[0]["eventYearlyRepeat"]);
 	
-	for (i = first_year; i <= last_year; i++) {
-		
-		for (j in titlesAndHeDatesObject) {		   
+	for (var i = first_year; i <= last_year; i++) {
+		for (var j in titlesAndHeDatesObject) {
 		   var iYearHeDateStart = new HeDate(i, 
 										titlesAndHeDatesObject[j]["heMonthStart"], 
 										titlesAndHeDatesObject[j]["heDayStart"]);

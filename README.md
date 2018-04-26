@@ -20,13 +20,6 @@ http://roibueno.co.nf/gcal-csv-hedate-exporter/index.html
 - Font-awesome-4.7.0
 - PopperJS, momentJS
 
-# Future Bugfixing:
-- Avoid adding ?eventTitle param after form submission in order to avoid bugs when trying to export more than once (sometimes doesn't work). Try changing "form" to "div"
-- Sanity QA for SHANA_MEUBERET/REGULAR: add events to Adar A + B to 2018 & 2019 and check
-- On dropdown: add text "Adar" to "Adar B" so that it will be clear for users what to choose on regular year
-- Modify for loop from 101 iterations to 100, and so on
-- Add "developed by Roi bueno" at the bottom of HTML DOM
-
 # Future Milestones:
 - Support bulk events adding in on click
 - Auto-load CSV file into Google Calendar using OATH, etc.
